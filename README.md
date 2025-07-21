@@ -3,7 +3,6 @@
 This is a **Content-Based Movie Recommender Web App** that suggests movies based on a selected movie using cosine similarity on movie metadata like genres, keywords, cast, and crew.
 
 Hosted Live 👉 [Streamlit App Link](https://movie-recommender-system-io.streamlit.app)  
-*Replace the above with your actual deployed link*
 
 ---
 
